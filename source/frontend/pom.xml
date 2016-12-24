@@ -14,7 +14,7 @@
 	<parent>
 		<groupId>com.billyproject</groupId>
 		<artifactId>billy-root</artifactId>
-		<version>1.0.0.RELEASE</version>
+		<version>1.0.0</version>
 		<relativePath>../</relativePath>
 	</parent>
 
@@ -54,9 +54,8 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
-        </plugin
-    </plugins>
+            </plugin> 
+    	</plugins>
     </build>    
 
 
